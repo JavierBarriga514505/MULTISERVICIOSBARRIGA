@@ -1,0 +1,33 @@
+.color-fondo {
+  /* background: url("../Imagenes/entrepreneur-1340649_1920.jpg"); */
+  background: #03506f;
+}
+
+.oscuro {
+  color: rgb(0, 0, 0);
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  /* background: #333; */
+  /* left = izquierda = l*/
+  /* rigth = derecha = l*/
+  /* top = arriba = l*/
+  /* bottom = abajo = l*/
+}
+
+.color {
+  color: darkmagenta;
+}
+
+#Fondo-Portada {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  opacity: 0.4;
+}
